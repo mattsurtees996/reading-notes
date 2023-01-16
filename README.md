@@ -29,3 +29,4 @@ Strikethrough text - ~~This text should have a strikethrough~~
 
 ![coding-924920_1280-scaled](https://user-images.githubusercontent.com/122787688/212668799-5b8bf149-958c-48ef-b312-e4a3179c1746.png)
 
+remote_theme: hacker

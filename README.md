@@ -1,5 +1,9 @@
 # reading-notes
 
+## Table of Contents
+
+[Class 02](https://mattsurtees996.github.io/reading-notes/class-02)
+
 ## Who is Matt?
 
 Hi my name is Matt, I'm on the full stack course.

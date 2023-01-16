@@ -19,7 +19,7 @@ Strikethrough text - ~~This text should have a strikethrough~~
 
 #### This is a link to my profile 
 
-[GitHub Pages] (https://github.com/mattsurtees996)
+[GitHub Pages](https://github.com/mattsurtees996)
 
 #### Importing Images
 

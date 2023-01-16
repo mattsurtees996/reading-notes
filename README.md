@@ -9,6 +9,6 @@ I enjoy watching and playing rugby and ice hockey.
 
 This is my reading notes for the full stack bootcamp where i will become a wizard of code.
 
-# What is Growth Mindset?
+## What is Growth Mindset?
 
 Growth mindset is knowing that even though I cant do something YET, I have the ability to learn it.

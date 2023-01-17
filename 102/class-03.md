@@ -18,3 +18,6 @@ This command pushes changes from the local “main” branch to the remote repos
 
 ##### git remote -v
 This command will show you all URL's which are connected to the original file which you have fetched & pushed back to the cloud ![git-remote-v.png](../git-remote-v.png)
+
+##### git commit
+This command will save all staged changes, where a new version of the project will be created in the original repo. ![git-commit.png](../git-commit.png

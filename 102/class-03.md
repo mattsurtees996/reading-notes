@@ -10,4 +10,6 @@ In today's lesson -
 
 ## New commands -
 
-To check a file's status - ![git status](git-status-command.png)
+To check a file's status - ![git-status-command.png](https://github.com/mattsurtees996/reading-notes/blob/959e62c56fa35eaa812783190b919c3cb3f43eaa/git-status-command.png)
+
+This command pushes changes from the local “main” branch to the remote repository named “origin” -  

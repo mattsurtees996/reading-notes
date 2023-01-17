@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-[Class 02](https://mattsurtees996.github.io/reading-notes/class-02)
+[Class 02](https://mattsurtees996.github.io/reading-notes/102/class-02)
 
 ## Who is Matt?
 

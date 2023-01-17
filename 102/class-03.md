@@ -10,4 +10,4 @@ In today's lesson -
 
 ## New commands -
 
-To check a file's status - 'git status'
+To check a file's status - ![git status](git-status-command.png)

@@ -13,7 +13,7 @@ In today's lesson -
 ##### git status
 To check a file's status - ![git-status-command.png](https://github.com/mattsurtees996/reading-notes/blob/959e62c56fa35eaa812783190b919c3cb3f43eaa/git-status-command.png)
 
-##### git push main origin
+##### git push origin main
 This command pushes changes from the local “main” branch to the remote repository named “origin” -  ![git-push-main-origin.png](https://github.com/mattsurtees996/reading-notes/blob/bc90b891d83013cef116128f2dbcddffbcb2e0af/git-push-origin-main.png)
 
 ##### git remote -v

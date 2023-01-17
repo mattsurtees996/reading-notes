@@ -1,3 +1,9 @@
+#### Class 1
+
+In this class; 
+- We was learning to use basic writing and formatting syntax
+- Learning about 'Growth Mindset'
+
 ## What is Growth Mindset?
 
 Growth mindset is knowing that even though I cant do something YET, I have the ability to learn it.

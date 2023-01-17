@@ -3,14 +3,14 @@
 ## Table of Contents
 
 ### 102
-[Class 01](https://mattsurtees996.github.io/reading-notes/102/class-01)
-[Class 02](https://mattsurtees996.github.io/reading-notes/102/class-02)
-[Class 03](https://mattsurtees996.github.io/reading-notes/102/class-03)
-[Class 04](https://mattsurtees996.github.io/reading-notes/102/class-04)
-[Class 05](https://mattsurtees996.github.io/reading-notes/102/class-05)
-[Class 06](https://mattsurtees996.github.io/reading-notes/102/class-06)
-[Class 07](https://mattsurtees996.github.io/reading-notes/102/class-07)
-[Class 08](https://mattsurtees996.github.io/reading-notes/102/class-08)
+[Class 01](https://mattsurtees996.github.io/reading-notes/102/class-01)  
+[Class 02](https://mattsurtees996.github.io/reading-notes/102/class-02)  
+[Class 03](https://mattsurtees996.github.io/reading-notes/102/class-03)  
+[Class 04](https://mattsurtees996.github.io/reading-notes/102/class-04)  
+[Class 05](https://mattsurtees996.github.io/reading-notes/102/class-05)  
+[Class 06](https://mattsurtees996.github.io/reading-notes/102/class-06)  
+[Class 07](https://mattsurtees996.github.io/reading-notes/102/class-07)  
+[Class 08](https://mattsurtees996.github.io/reading-notes/102/class-08)  
 
 ## Who is Matt?
 

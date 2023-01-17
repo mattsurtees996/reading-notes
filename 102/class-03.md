@@ -11,10 +11,10 @@ In today's lesson -
 ## New commands -
 
 ##### git status
-To check a file's status - ![git-status-command.png](https://github.com/mattsurtees996/reading-notes/blob/959e62c56fa35eaa812783190b919c3cb3f43eaa/git-status-command.png)
+To check a file's status - ![git-status-command.png](../git-status-command.png)
 
 ##### git push origin main
-This command pushes changes from the local “main” branch to the remote repository named “origin” -  ![git-push-main-origin.png](https://github.com/mattsurtees996/reading-notes/blob/bc90b891d83013cef116128f2dbcddffbcb2e0af/git-push-origin-main.png)
+This command pushes changes from the local “main” branch to the remote repository named “origin” -  ![git-push-main-origin.png](../git-push-origin-main.png)
 
 ##### git remote -v
-This command will show you all URL's which are connected to the original file which you have fetched & pushed back to the cloud ![git-remote-v.png](https://github.com/mattsurtees996/reading-notes/blob/ff28be275238d16b5199717e0d34b1eed1accc2f/git-remote-v.png)
+This command will show you all URL's which are connected to the original file which you have fetched & pushed back to the cloud ![git-remote-v.png](../git-remote-v.png)

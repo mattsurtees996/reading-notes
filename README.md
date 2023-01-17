@@ -1,4 +1,4 @@
-# reading-notes
+# Reading Notes - Full Stack
 
 ## Table of Contents
 

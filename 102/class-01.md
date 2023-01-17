@@ -1,4 +1,4 @@
-#### Class 1
+#### Class 1 - Learning Markdown
 
 In this class; 
 - We was learning to use basic writing and formatting syntax

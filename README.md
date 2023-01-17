@@ -1,5 +1,20 @@
 # Reading Notes - Full Stack
 
+## Who is Matt?
+
+Hi my name is Matt, I'm on the full stack course. I'm about to learn how to be a coding wizard. I joined this course because I have friends in the industry and want a new challenge and to follow up in a career within the tech industry.
+
+## About Matt...
+
+I'm 26 years old, who previously worked in enviromental health and renewable energy sector. I'm orignally from Tottenham, London. (Yes, I'm a spurs fan!)
+
+## What is this website?
+
+This is my reading notes for the full stack bootcamp where i will become a wizard of code. This will be were i am going to store all my reading materials and learning throughout this bootcamp! 
+
+Please see below, and follow me on my journey to being a wizard of code.
+
+
 ## Table of Contents
 
 ### 102
@@ -28,13 +43,4 @@
 [Class 13](https://mattsurtees996.github.io/reading-notes/201/class-13)  
 [Class 14](https://mattsurtees996.github.io/reading-notes/201/class-14)  
 [Class 15](https://mattsurtees996.github.io/reading-notes/201/class-15)  
-
-## Who is Matt?
-
-Hi my name is Matt, I'm on the full stack course.
-I enjoy watching and playing rugby and ice hockey.
-
-## What is this website?
-
-This is my reading notes for the full stack bootcamp where i will become a wizard of code.
 

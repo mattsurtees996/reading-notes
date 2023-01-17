@@ -7,3 +7,5 @@ This was a long and tedious process, but once its done correctly, it will not ne
 
 ### Useful Links For Reference
 
+[What is a Command 
+

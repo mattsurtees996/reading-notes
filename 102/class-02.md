@@ -7,5 +7,9 @@ This was a long and tedious process, but once its done correctly, it will not ne
 
 ### Useful Links For Reference
 
-[What is a Command 
+We was given these links to use for reference;
+
+[What is a Command Line?](https://ryanstutorials.net/linuxtutorial/commandline.php)  
+[Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)  
+[About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)  
 

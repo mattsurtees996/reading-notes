@@ -7,3 +7,16 @@ In this class, we have done a group project. The aim of this group task is to co
 In our group's we brainstormed our topic which we are basing our design around. Below is a photo of our base project we created using 'Figma'.
 
 ![figma-website-design.png](../figma-website-design.png)
+
+## Structuring your HTML
+
+Within your HTML there are 2 main components;
+  - Head:  What the browser uses to create your browser page (behind the scences)
+  
+  - Body:  This is what you see on your browser page
+    - Within the body you have 3 main areas;
+        - Header 
+        - Main
+        - Footer
+
+Within the different sections you can add images, navigation menu's, paragraphs etc.

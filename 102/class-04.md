@@ -8,7 +8,7 @@ In our group's we brainstormed our topic which we are basing our design around. 
 
 ![figma-website-design.png](../figma-website-design.png)
 
-## Structuring your HTML
+#### Structuring your HTML
 
 Within your HTML there are 2 main components;
   - Head:  What the browser uses to create your browser page (behind the scences)
@@ -28,3 +28,5 @@ Within the different sections you can add images, navigation menu's, paragraphs 
 [HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
 [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+
+## Things I want to know more about;

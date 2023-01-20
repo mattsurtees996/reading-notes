@@ -20,3 +20,9 @@ Within your HTML there are 2 main components;
         - Footer
 
 Within the different sections you can add images, navigation menu's, paragraphs etc.
+
+#### Reference Links;
+
+[Wireframe & Design](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
+[HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+[Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)

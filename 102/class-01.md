@@ -19,3 +19,9 @@ Strikethrough text - ~~This text should have a strikethrough~~
 #### Importing Images
 
 ![coding-924920_1280-scaled](https://user-images.githubusercontent.com/122787688/212668799-5b8bf149-958c-48ef-b312-e4a3179c1746.png)
+
+#### Reference Links;
+
+[Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+[Basic Writing and Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[GitHub Pages](https://pages.github.com/)
